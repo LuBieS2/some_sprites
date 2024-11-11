@@ -1,2 +1,2 @@
 # sprite
-jakieś gówniane sprity
+moje sprity
