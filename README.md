@@ -1,2 +1,2 @@
 # sprite
-jakieś gówniane spritety
+jakieś gówniane sprity
